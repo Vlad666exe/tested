@@ -1,0 +1,3 @@
+Very cool camera twist on beat
+Value 1: use 'on' or 'off' to toggle
+Value 2: The angle it will twist at (should be positive)
