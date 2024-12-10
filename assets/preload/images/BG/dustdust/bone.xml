@@ -1,0 +1,48 @@
+<TextureAtlas imagePath="bone.png">
+<!--  Created with Adobe Animate version 20.0.2.22168  -->
+<!--  http://www.adobe.com/products/animate.html  -->
+<SubTexture name="bone 10000" x="10" y="472" width="1177" height="212" frameX="-951" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10001" x="10" y="472" width="1177" height="212" frameX="-951" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10002" x="10" y="472" width="1177" height="212" frameX="-775" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10003" x="10" y="472" width="1177" height="212" frameX="-775" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10004" x="10" y="472" width="1177" height="212" frameX="-795" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10005" x="10" y="472" width="1177" height="212" frameX="-795" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10006" x="10" y="472" width="1177" height="212" frameX="-780" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10007" x="10" y="472" width="1177" height="212" frameX="-780" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10008" x="10" y="472" width="1177" height="212" frameX="-780" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10009" x="10" y="472" width="1177" height="212" frameX="-780" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10010" x="10" y="472" width="1177" height="212" frameX="-791" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10011" x="10" y="472" width="1177" height="212" frameX="-800" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10012" x="10" y="10" width="1207" height="222" frameX="0" frameY="0" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10013" x="10" y="10" width="1207" height="222" frameX="0" frameY="0" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10014" x="10" y="472" width="1177" height="212" frameX="-53" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10015" x="10" y="472" width="1177" height="212" frameX="-53" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10016" x="10" y="472" width="1177" height="212" frameX="-40" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10017" x="10" y="472" width="1177" height="212" frameX="-40" frameY="-3" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10018" x="10" y="242" width="1208" height="220" frameX="-441" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10019" x="10" y="242" width="1208" height="220" frameX="-441" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10020" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10021" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10022" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10023" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10024" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10025" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10026" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10027" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10028" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10029" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10030" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10031" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10032" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10033" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10034" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10035" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10036" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10037" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10038" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10039" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10040" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10041" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10042" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+<SubTexture name="bone 10043" x="10" y="242" width="1208" height="220" frameX="-1212" frameY="-1" frameWidth="2420" frameHeight="222"/>
+</TextureAtlas>
