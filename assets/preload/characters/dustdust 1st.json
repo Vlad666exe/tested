@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				216,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				203,
+				63
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				215,
+				47
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				220,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				274,
+				-70
+			],
+			"anim": "start2",
+			"fps": 24,
+			"name": "2wait ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				-70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "start1",
+			"indices": [],
+			"name": "wait "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dustdust 1st",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-dustdust",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		52,
+		89
+	],
+	"camera_position": [
+		220,
+		80
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}
